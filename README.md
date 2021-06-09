@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Machine Learning projects
+- 🌱 I’m currently learning Computer Vision
+- 👯 I’m looking to collaborate on Machine Learning projects
+- 💬 Ask me about AI/ML/Data
+- 📫 How to reach me: https://www.linkedin.com/in/lamiaehana/
+- ⚡ Fun fact: I like video editing and cooking 
